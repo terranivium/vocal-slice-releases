@@ -1,0 +1,46 @@
+Vocal Slice — Proprietary Software License
+
+Copyright (c) 2026 Wesley Scott. All rights reserved.
+
+This software and its source code (the "Software") are the confidential and
+proprietary property of Wesley Scott. The Software is licensed, not sold.
+
+NO LICENSE IS GRANTED except as expressly set out below. In particular, no
+permission is granted to any person to:
+
+  1. copy, reproduce, publish or distribute the Software or its source code;
+  2. modify, adapt, translate or create derivative works of the Software;
+  3. sell, rent, lease, sublicense, or otherwise commercially exploit the
+     Software;
+  4. reverse engineer, decompile or disassemble the Software, except to the
+     extent that such activity cannot lawfully be excluded; or
+  5. remove or alter any copyright, trademark or other proprietary notice.
+
+Binary distributions of the Software are made available solely by the copyright
+holder. Where a binary distribution is supplied to you, you are granted a
+personal, non-exclusive, non-transferable, revocable license to install and use
+that binary for your own purposes, subject to the restrictions above.
+
+"Vocal Slice", the Vocal Slice logo, and the associated application icon are
+trademarks of Wesley Scott. Nothing in this license grants any right to use
+those marks.
+
+THIRD-PARTY COMPONENTS
+----------------------
+This Software incorporates third-party open-source components that remain
+subject to their own licenses, which are reproduced in THIRD-PARTY-NOTICES.md
+in this distribution. Nothing in this license limits, supersedes or otherwise
+modifies the rights you are granted under those third-party licenses in respect
+of those components.
+
+NO WARRANTY
+-----------
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Nothing in this license excludes or limits liability to the extent that such
+exclusion or limitation is not permitted by applicable law.
